@@ -1,7 +1,14 @@
-# 🎬 MySubs Best Subtitle Highlighter
+<div align="center">
+  <img src="https://raw.githubusercontent.com/igorskyflyer/userscript-mysubs-best-subtitle-highlighter/main/media/mysubs-best-subtitle-highlighter.png" alt="Colorful filmstrip speech bubble icon representing MySubs Best Subtitle Highlighter UserScript for movies" width="256" height="256">
+  <h1>🎬 MySubs Best Subtitle Highlighter</h1>
+</div>
 
-A UserScript that automatically highlights the most-voted subtitle per language on MySubs **film** pages.  
+<br>
+
+<h4 align="center">
+  A UserScript that automatically highlights the most-voted subtitle per language on MySubs **film** pages.  
 Works only for films, series pages are not supported due to single subtitle listings.
+</h4>
 
 <br>
 
