@@ -29,7 +29,7 @@
 <br>
 
 ## 📜 License
-CC-BY-NC-ND-4.0 / GPLv3 - free to use with attribution, no remixing or commercial use
+Licensed under the [**GPLv3 license**](https://github.com/igorskyflyer/userscript-mysubs-best-subtitle-highlighter/blob/main/LICENSE).
 
 ---
 
