@@ -26,4 +26,4 @@ CC-BY-NC-ND-4.0 - free to use with attribution, no remixing or commercial use
 
 ---
 
-Made with care by [**Igor Dimitrijević - igorskyflyer**](https://github.com/igorskyflyer)
+Made with care by [**Igor Dimitrijević (igorskyflyer)**](https://github.com/igorskyflyer)
