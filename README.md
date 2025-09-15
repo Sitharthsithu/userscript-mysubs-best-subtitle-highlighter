@@ -6,7 +6,7 @@
 <br>
 
 <h4 align="center">
-  A UserScript that automatically highlights the most-voted subtitle per language on MySubs **film** pages.  
+  A UserScript that automatically highlights the most-voted subtitle per language on MySubs <strong>film</strong> pages.  
 Works only for films, series pages are not supported due to single subtitle listings.
 </h4>
 
