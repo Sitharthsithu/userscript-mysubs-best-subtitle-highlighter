@@ -22,7 +22,7 @@ Works only for films, series pages are not supported due to single subtitle list
 <br>
 
 ## 📜 License
-CC-BY-NC-ND-4.0 - free to use with attribution, no remixing or commercial use
+CC-BY-NC-ND-4.0 / GPLv3 - free to use with attribution, no remixing or commercial use
 
 ---
 
