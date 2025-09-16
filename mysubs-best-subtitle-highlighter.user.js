@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         MySubs Best Subtitle Highlighter
 // @namespace    https://greasyfork.org/users/1002054-igorskyflyer
-// @version      v1.0.3
+// @version      v1.0.4
 // @description  Highlights the most-voted subtitle per language on MySubs film pages. Works only for films!
 // @author       igorskyflyer
-// @date         2025-09-15
+// @date         2025-09-16
 // @match        https://my-subs.co/film*
 // @match        https://my-subs.com/film*
 // @match        https://my-subs.net/film*
