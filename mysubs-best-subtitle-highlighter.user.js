@@ -11,7 +11,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=my-subs.co
 // @run-at       document-end
 // @grant        none
-// @license      GPLv3
+// @license      GPL3
 // @compatible   chrome
 // @compatible   firefox
 // @compatible   opera
