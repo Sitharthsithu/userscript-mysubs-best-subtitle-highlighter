@@ -29,7 +29,7 @@
 <br>
 
 ## 📜 License
-Licensed under the [**GPLv3 license**](https://github.com/igorskyflyer/userscript-mysubs-best-subtitle-highlighter/blob/main/LICENSE).
+Licensed under the [**GPL-3.0-or-later**](https://github.com/igorskyflyer/userscript-mysubs-best-subtitle-highlighter/blob/main/LICENSE).
 
 ---
 
